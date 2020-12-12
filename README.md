@@ -1,7 +1,7 @@
 # Hello!
 Σε αυτό το φάκελο υπάρχουν όλα τα απαραίτητα αρχεία για να μπορέσετε να τρέξετε την εφαρμογή.
 Πριν ξεκινήσετε πρέπει να τσεκάρετε από το terminal αν έχετε το node.js και το npm (node -v && npm -v)
-επίσης να κάνετε install (σε περίπτωση που δεν υπάρχουν) τα:
+επίσης να κάνετε install τα:
 1.  npm (npm install και npm init -y)
 2.  vue (npm i -g @vue/cli)
 3.  json-server (npm i -g json-server)
