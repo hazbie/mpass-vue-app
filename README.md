@@ -12,4 +12,4 @@
 2.  json-server --watch servers.json (τρέχει στο http://localhost:3000/articles) αφού βρίσκεστε στο φάκελο json-server-lib (cd json-server-lib)
 3. npm run server (τρέχει στο http://localhost:8080/) αφού βρίσκεστε στο φάκελο vue-app (cd vue-app)
 
-Εδώ χρησιμοποιώ δυο terminal για να τα τρέξω ξεχωριστά
+Εδώ χρησιμοποιώ δυο terminal για να τα τρέξω ξεχωριστά.
